@@ -238,6 +238,7 @@ footer {
   }
 
   body {
+    width: 100%;
     background-size: cover;
     background-attachment: fixed;
   }
@@ -296,5 +297,5 @@ footer {
 
   nav ul li a {
     padding: 7px;
-  }
+}
 }
