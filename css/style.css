@@ -14,11 +14,6 @@ header {
   padding: 20px;
 }
 
-nav {
-  margin-bottom: 10%;
-  height: 75px;
-}
-
 .iconito {
   font-family: "hobbiton_brushhahobbitonbrush";
   float: left;
@@ -75,7 +70,7 @@ nav ul li a:hover {
 
 .espacios {
   padding-top: 30px;
-  padding-bottom: 100px;
+  padding-bottom: 50px;
 }
 
 .espaciosos {
@@ -280,12 +275,16 @@ footer {
 
   .fonfooter {
     background: #2e2825;
-    height: 110%;
+    padding-top: 5px;
   }
 
   .comunicate {
-    font-size: 26px;
+    font-size: 23px;
     margin-left: 10px;
-}
+    padding-top
+  }
 
+  nav ul li a {
+    padding: 7px;
+  }
 }
