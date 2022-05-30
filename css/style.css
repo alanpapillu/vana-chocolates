@@ -237,6 +237,11 @@ footer {
     height: 161px;
   }
 
+  body {
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
   nav ul {
     display: inline-block;
     float: none;
