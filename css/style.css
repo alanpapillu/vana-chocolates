@@ -239,6 +239,7 @@ footer {
     width: 100%;
     background-size: 100% 100%;
     background-attachment: fixed;
+    position: absolute;
   }
 
   nav ul {
