@@ -237,8 +237,7 @@ footer {
 
   body {
     width: 100%;
-    box-sizing: border-box;
-    background-size: cover;
+    background-size: 100% 100%;
     background-attachment: fixed;
   }
 
@@ -247,6 +246,10 @@ footer {
     float: none;
     margin: 0;
     padding: 26px;
+  }
+
+  nav ul li a {
+    padding: 7px;
   }
 
   .grande {
@@ -291,10 +294,6 @@ footer {
   .comunicate {
     font-size: 23px;
     margin-left: 10px;
-    padding-top
   }
 
-  nav ul li a {
-    padding: 7px;
-}
 }
