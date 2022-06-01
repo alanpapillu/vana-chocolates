@@ -204,6 +204,7 @@ footer {
 .fonfooter {
   background: #2e2825;
 }
+
 .comunicate {
   
   font-size: 36px;
@@ -253,6 +254,10 @@ footer {
     padding: 7px;
   }
 
+  .titulo {
+    margin-top: 50px;
+  }
+
   .grande {
     margin-bottom: 0px;
   }
@@ -290,6 +295,11 @@ footer {
   .fonfooter {
     background: #2e2825;
     padding-top: 5px;
+  }
+
+  .nosotras {
+    margin-top: 0;
+    margin-bottom: 20px;
   }
 
   .comunicate {
