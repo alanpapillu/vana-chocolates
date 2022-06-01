@@ -258,6 +258,15 @@ footer {
     margin-top: 50px;
   }
 
+  .texto {
+    margin: 0;
+    padding: 0px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    position: absolute;
+  }
+
   .grande {
     margin-bottom: 0px;
   }
