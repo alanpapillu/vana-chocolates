@@ -236,12 +236,12 @@ footer {
     height: 161px;
   }
 
-  body {
+  /*body {
     width: 100%;
     background-size: 100% 100%;
     background-attachment: fixed;
     position: absolute;
-  }
+  }*/
 
   nav ul {
     display: inline-block;
