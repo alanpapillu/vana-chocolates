@@ -231,6 +231,20 @@ footer {
     height: 595px;
 }
 
+.bloque-whatsapp {
+  position: fixed;
+  bottom: 0px;
+  right: 4rem;
+  background-color: #00bb2d;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.bloque-whatsapp a {
+  color: #fdfdfd;
+  font-size: 1.5rem;
+}
+
 @media screen and (max-width:480px){
   header{
     height: 161px;
@@ -313,6 +327,19 @@ footer {
   .comunicate {
     font-size: 23px;
     margin-left: 10px;
+  }
+
+  .bloque-whatsapp {
+    bottom: 0px;
+    right: 15px;
+    background-color: #00bb2d;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+
+  .bloque-whatsapp a {
+    color: #fdfdfd;
+    font-size: 1.75rem;
   }
 
 }
